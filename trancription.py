@@ -6,7 +6,7 @@ import time
 
 # files after part 2
 
-API = "53bad5e1cab74cac8e5a47f74c9bbf78"
+API = "add_your_api"
 
 upload_endpoint = 'https://api.assemblyai.com/v2/upload'
 transcript_endpoint = 'https://api.assemblyai.com/v2/transcript'
